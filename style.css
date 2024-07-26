@@ -115,6 +115,12 @@ body {
   line-height: 1.6;
 }
 
+.company-logo {
+  margin-left: 10%;
+  margin-top: 10%;
+  width: 70%;
+}
+
 /* Achievement section styles */
 .achievementcontainer {
   background-color: #f9f9f9;
