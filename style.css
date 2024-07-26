@@ -191,6 +191,10 @@ body {
     text-align: center;
   }
 
+  .company-logo {
+    margin-left: 0%;
+  }
+
   .headercontainer h1 {
     font-size: 2.5em;
   }
